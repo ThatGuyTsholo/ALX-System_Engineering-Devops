@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -mindepth 1 -type d | wc -1
+=======
+find .vim/* -maxdepth 0 -type d
+>>>>>>> bbff4a003923adeeeec3fcee2373b6937760e9db
